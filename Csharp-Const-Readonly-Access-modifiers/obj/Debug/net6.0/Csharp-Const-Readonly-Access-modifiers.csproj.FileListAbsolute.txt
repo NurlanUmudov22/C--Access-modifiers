@@ -1,0 +1,14 @@
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\bin\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.exe
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\bin\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.deps.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\bin\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.runtimeconfig.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\bin\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\bin\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.AssemblyInfoInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.AssemblyInfo.cs
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\refint\Csharp-Const-Readonly-Access-modifiers.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\Csharp-Const-Readonly-Access-modifiers.genruntimeconfig.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-Const-Readonly-Access-modifiers\Csharp-Const-Readonly-Access-modifiers\obj\Debug\net6.0\ref\Csharp-Const-Readonly-Access-modifiers.dll
